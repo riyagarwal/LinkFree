@@ -1,0 +1,29 @@
+{
+  "name": "Riya Agarwal",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Software Engineer. **Fitness Enthusiast**",
+  "avatar": "https://github.com/riyagarwal.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/RiyaAgarwal445",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/riya-agarwal445/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/riyagarwal",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on YouTube",
+      "url": "https://www.youtube.com/@riyagarwal445",
+      "icon": "FaYouTube"
+    }
+  ]
+}
